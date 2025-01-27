@@ -1,0 +1,9 @@
+let employee = {
+    name: "Mbilu Mabilu"
+    age: 21
+    department: "Sales"
+    isActive: true
+}
+employee.department = "Marketing"
+employess.position = "Team Lead"
+console.log("Update Employee Object", employee)

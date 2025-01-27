@@ -1,0 +1,12 @@
+l{
+    et order = {
+    orderId: 44391
+    customerName: "Tadiwa Masuta"
+    amount: 300
+    calculateTax: function() {
+        return this.amount * 0.10
+    }
+}
+console.log("Order Details:", order)
+console.log("Tax Amount:", order.calculateTax())
+}

@@ -1,0 +1,6 @@
+{
+let products = ["Laptop", "Smartphone", "Tablet", "Monitor", "Keyboard"]
+products.push("mouse")
+products.pop()
+console.log("Updated Product List:", products)
+}

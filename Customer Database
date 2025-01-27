@@ -1,0 +1,9 @@
+{
+    let customers = [
+    { name: "Mbilu Mabilu", email: "mbilu.mabilu@icloud.com", purchaseAmount: 150}
+    { name: "Tendai Masut", email: "tendaimsauta23@gmail.com", purchaseAmount: 200}
+    { name: "Phala Mabilu", email: "pmabilu@gmail.com", purchaseAmount: 100}
+]
+customers.push({ name: "David Mabilu", email: "david@vharanani.com", purchaceAmount: 250})
+console.log("Customer Database:", customers)
+}
